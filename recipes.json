@@ -1,0 +1,13 @@
+{
+"wooden sword" : {"sticks" : 6}, 
+"club" : {"rocks" : 4, "sticks" : 2}, 
+"hammer" : {"rocks" : 4, "sticks" : 4}, 
+"spear" : {"rocks" : 3, "sticks" : 6}, 
+"stone sword" : {"rocks" : 6, "sticks" : 4, "iron" : 2}, 
+"iron dagger" : {"iron" : 4, "sticks" : 4}, 
+"bow" : {"sticks" : 8, "iron" : 4}, 
+"rock mace" : {"rocks" : 20}, 
+"cactus disk" : {"sticks" : 8, "cactus" : 20}, 
+"grenade" : {"sand" : 20, "fish" : 10}, 
+"katana" : {"iron" : 20, "sticks" : 10}
+}
